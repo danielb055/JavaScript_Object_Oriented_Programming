@@ -3,7 +3,7 @@ class Truck {
         this.truckImg = truckImg;
         this.truckLocation = truckLocation;
         this.truckSpeed = truckSpeed
-
+        this.author = "Daniel";
         this.init();
     }
 
