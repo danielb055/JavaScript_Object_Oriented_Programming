@@ -1,0 +1,15 @@
+.car {
+    position: absolute;
+    width: 50px;
+    transform: rotate(180deg);
+    top:0;
+    left: 0;
+}
+
+.truck {
+    position: absolute;
+    width: 80px;
+    transform: rotate(180deg);
+    top: 0;
+    left: 0;
+}
